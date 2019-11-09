@@ -1,0 +1,1 @@
+This is the database folder containing data in SQLITE

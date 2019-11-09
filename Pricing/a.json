@@ -1,0 +1,24 @@
+{
+    "data": [
+    {   
+        "Building1": {
+        "Schedule":[
+            {"Washing Machine":[9,11]},
+            {"Dish washer":[9,11]}
+        ],
+        "Profit": 4.2,
+        "Bill":45.0
+        }
+    },
+    {
+        "Building2": {
+        "Schedule":[
+            {"Dryer":[9,11]},
+            {"Device2":[9,11]}
+        ],
+        "Profit": 6.2,
+        "Bill":55.0
+        }
+    }
+]
+}

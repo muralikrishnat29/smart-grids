@@ -1,0 +1,7 @@
+/.vscode/
+/DataAccessLayer/__pycache__/
+!/DataAccessLayer/Database/ReadMe.md
+/DataAccessLayer/config.json
+/env/
+/test_env/
+/Pipfile.lock
