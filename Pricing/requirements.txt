@@ -1,4 +1,4 @@
-bottle==0.12.17
+bottle==0.12.19
 certifi==2019.6.16
 entsoe-py==0.2.5
 numpy==1.16.4
