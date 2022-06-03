@@ -1,4 +1,4 @@
-bottle==0.12.17
+bottle==0.12.20
 certifi==2019.6.16
 numpy==1.16.4
 pandas==0.24.2
